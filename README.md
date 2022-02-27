@@ -1,7 +1,7 @@
 # TeslaClone
-Built a clone of the Tesla App in React Native. Start by designing the Layout for the UI. 
+Built a clone of the Tesla App in React Native.
 
-Utilized React Native, modern Javascript, Typescript, functional components, hooks, state, navigations.
+Utilized React Native, modern Javascript, functional components, hooks, state, navigations.
 
 Features including infinite scroll, responsive release-and-snap back to center align with screen size, clean and simple UI.
 
